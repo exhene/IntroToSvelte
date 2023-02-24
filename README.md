@@ -1,2 +1,1 @@
-# juansimulator
-diversity needed
+# 30DaysOfSvelte
