@@ -1,3 +1,3 @@
-# IntroToSvelte
+# TestingSvelte
 
 Svelte is a free and open-source web application framework that enables developers to build fast and efficient web applications using a different approach to traditional frameworks. Instead of interpreting code at runtime, Svelte compiles the code into highly optimized JavaScript during the build process. This approach results in smaller file sizes and faster loading times, as well as improved performance and reduced battery consumption. Additionally, Svelte's syntax is intuitive and easy to learn, making it an attractive option for developers of all skill levels. With Svelte, developers can create highly responsive, scalable, and easy-to-maintain web applications, making it an increasingly popular choice in the web development community.
